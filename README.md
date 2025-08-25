@@ -6,7 +6,7 @@ The dashboard provides insights into various HDFC entities, color-coded for clar
 ---
 
 ## 🔗 Live Dashboard  
-👉 [View Dashboard](#) *(Add your Tableau Public / hosted dashboard link here)*  
+👉 [View Dashboard](#) *https://public.tableau.com/app/profile/soham.chogale/viz/HDFCAnalytics/Dashboard?publish=yes*  
 
 ---
 
@@ -45,3 +45,4 @@ The dashboard provides insights into various HDFC entities, color-coded for clar
 - `HDFC Assest Management.png` → AMC logo  
 - `HDFC Bank.png` → Bank logo  
 - `HDFC Life.jpeg.jpg` → Life Insurance logo  
+
